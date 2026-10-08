@@ -295,7 +295,7 @@ async function handleRequest(request, env) {
     corsHeaders.set('content-type', 'application/json');
     return new Response(JSON.stringify({
       usage: 'Host/{URL}',
-      source: 'https://github.com/netnr/proxy',
+      source: 'https://github.com/mrdnkl/proxy',
     }), {
       status: 200,
       headers: corsHeaders,
