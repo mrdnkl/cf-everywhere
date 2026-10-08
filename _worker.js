@@ -1,4 +1,4 @@
-_/**
+/**
  * Cloudflare Worker - CORS Proxy (port of cors-anywhere)
  * © 2013 - 2016 Rob Wu <rob@robwu.nl>
  * Released under the MIT license
